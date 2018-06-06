@@ -14,6 +14,8 @@ namespace AvventuraTestuale {
             Console.WriteLine("MAIN");
             bool stop = true;
                 string text = null;
+
+            // Ho aggiunto un commento
                 Inventario=new InventorySystem();
                 Titoli();
                 Console.WriteLine("A OVEST DELLA CASA");
